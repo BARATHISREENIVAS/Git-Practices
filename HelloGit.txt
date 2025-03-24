@@ -1,1 +1,4 @@
-Hello from branch 2
+
+Hello GitHub from branch 2
+Hello Git from Branch 1.
+
